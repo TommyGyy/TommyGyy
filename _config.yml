@@ -5,12 +5,12 @@ timezone: Asia/Shanghai
 
 # ---- Site Info ----
 title: Belle小冷
-tagline: 我梦寐以求的是真爱和自由
+tagline: 记录技术与生活
 description: >-
-  Belle小冷的个人博客，可可托海滑雪主播，分享滑雪、户外探险与生活中的美好瞬间。将军山最美夕阳，热爱山海与自由。
+  Belle小冷的个人博客，分享技术探索、项目实践与生活随笔。
 
 url: ""
-baseurl: "/TommyGyy"
+baseurl: ""
 
 # ---- Appearance ----
 avatar: /assets/img/avatar.jpg
@@ -53,6 +53,3 @@ toc: true                 # Table of contents in posts
 
 # ---- Pagination ----
 paginate: 10
-
-# ---- Future Posts ----
-future: true
