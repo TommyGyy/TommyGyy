@@ -9,3 +9,7 @@
 - type: rss
   icon: fas fa-rss
   noblank: true
+
+- type: tiktok
+  icon: fab fa-tiktok
+  url: "https://www.douyin.com/user/_Belle小冷_"
