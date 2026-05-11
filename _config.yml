@@ -23,6 +23,23 @@ social:
   links:
     - https://github.com/TommyGyy
 
+github:
+  username: TommyGyy
+
+# ---- Collections ----
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+defaults:
+  - scope:
+      path: ""
+      type: tabs
+    values:
+      layout: page
+      permalink: /:title/
+
 # ---- Page Settings ----
 page_views: false         # Disable PV counter (no 3rd-party script)
 reading_time: true        # Show estimated reading time
