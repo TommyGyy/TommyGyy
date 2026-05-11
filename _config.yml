@@ -1,0 +1,34 @@
+# ---- Theme ----
+theme: jekyll-theme-chirpy
+lang: zh-CN
+timezone: Asia/Shanghai
+
+# ---- Site Info ----
+title: 你的名字
+tagline: 简短的个人标语
+description: >-
+  一段个人简介，会出现在 SEO meta 和侧边栏中。
+  可以写多行。
+
+url: ""
+baseurl: ""
+
+# ---- Appearance ----
+avatar: /assets/img/avatar.jpg
+theme_mode: light
+
+# ---- Social ----
+social:
+  name: 你的名字
+  email: you@example.com
+  links:
+    - https://github.com/yourusername
+
+# ---- Page Settings ----
+page_views: false         # Disable PV counter (no 3rd-party script)
+reading_time: true        # Show estimated reading time
+back_to_top: true         # Show back-to-top button
+toc: true                 # Table of contents in posts
+
+# ---- Pagination ----
+paginate: 10
