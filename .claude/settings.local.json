@@ -1,0 +1,33 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bundle exec *)",
+      "Bash(ruby --version)",
+      "Bash(gem list *)",
+      "Bash(rbenv versions *)",
+      "Bash(rvm list *)",
+      "Bash(gem install *)",
+      "Bash(jekyll config *)",
+      "Bash(echo \"EXIT: $?\")",
+      "Bash(bundle _1.17.2_ install)",
+      "Bash(brew list *)",
+      "Read(//usr/local/opt/ruby/bin/**)",
+      "Read(//opt/homebrew/opt/ruby/bin/**)",
+      "Bash(bundle install *)",
+      "Read(//Users/xingrui/**)",
+      "Read(//Users/xingrui/.rbenv/versions/**)",
+      "Bash(/usr/local/opt/ruby/bin/ruby --version)",
+      "Bash(export PATH=\"/usr/local/opt/ruby/bin:$PATH\")",
+      "Bash(export PATH=\"$HOME/.rbenv/bin:$HOME/.rbenv/shims:$PATH\")",
+      "Bash(ruby -ryaml -e \"config = YAML.safe_load\\(File.read\\('_config.yml'\\)\\); puts 'Config loaded successfully'; puts 'Keys: ' + config.keys.sort.join\\(', '\\); puts 'Theme: ' + config['theme'].to_s\")",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git diff *)",
+      "Bash(git *)",
+      "Bash(ruby *)",
+      "Bash(sass --version)",
+      "Bash(bundle show *)",
+      "Bash(python3 *)"
+    ]
+  }
+}
