@@ -1,6 +1,6 @@
 ---
 title: Hello World — 我的第一篇博客
-author: 你的名字
+author: Belle小冷
 date: 2026-05-10 10:00:00 +0800
 categories: [随笔]
 tags: [blog, hello]

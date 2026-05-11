@@ -1,14 +1,10 @@
 - type: github
   icon: fab fa-github
-  url: "https://github.com/yourusername"
+  url: "https://github.com/TommyGyy"
 
 - type: email
   icon: fas fa-envelope
-  url: "mailto:you@example.com"
-
-- type: twitter
-  icon: fab fa-twitter
-  url: "https://twitter.com/yourusername"
+  url: "mailto:gyy616@vip.qq.com"
 
 - type: rss
   icon: fas fa-rss

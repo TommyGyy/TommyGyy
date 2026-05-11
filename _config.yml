@@ -4,11 +4,10 @@ lang: zh-CN
 timezone: Asia/Shanghai
 
 # ---- Site Info ----
-title: 你的名字
-tagline: 简短的个人标语
+title: Belle小冷
+tagline: 记录技术与生活
 description: >-
-  一段个人简介，会出现在 SEO meta 和侧边栏中。
-  可以写多行。
+  Belle小冷的个人博客，分享技术探索、项目实践与生活随笔。
 
 url: ""
 baseurl: ""
@@ -19,10 +18,10 @@ theme_mode: light
 
 # ---- Social ----
 social:
-  name: 你的名字
-  email: you@example.com
+  name: Belle小冷
+  email: gyy616@vip.qq.com
   links:
-    - https://github.com/yourusername
+    - https://github.com/TommyGyy
 
 # ---- Page Settings ----
 page_views: false         # Disable PV counter (no 3rd-party script)
