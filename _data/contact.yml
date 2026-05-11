@@ -1,0 +1,15 @@
+- type: github
+  icon: fab fa-github
+  url: "https://github.com/yourusername"
+
+- type: email
+  icon: fas fa-envelope
+  url: "mailto:you@example.com"
+
+- type: twitter
+  icon: fab fa-twitter
+  url: "https://twitter.com/yourusername"
+
+- type: rss
+  icon: fas fa-rss
+  noblank: true
